@@ -35,6 +35,7 @@
 #include <cutils/log.h>
 #include <errno.h>
 #include <linux/android_pmem.h>
+#include <linux/ioctl.h>
 #include "gralloc_priv.h"
 #include "pmemalloc.h"
 #include "pmem_bestfit_alloc.h"
