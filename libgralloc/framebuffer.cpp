@@ -32,7 +32,7 @@
 #include <cutils/atomic.h>
 
 #include <linux/fb.h>
-#include "msm_mdp.h"
+#include <linux/msm_mdp.h>
 
 #include <GLES/gl.h>
 
